@@ -17,12 +17,11 @@
     <IISExpressUseClassicPipelineMode />
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="Camera.png" />
+    <Content Include="i\link_sprites.png" />
     <Content Include="my_css.css" />
     <Content Include="normalize.css" />
     <Content Include="index.html" />
-    <Content Include="logo.png" />
-    <Content Include="tickets.png" />
+    <Content Include="i\logo.png" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>

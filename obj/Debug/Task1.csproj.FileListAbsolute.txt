@@ -4,3 +4,9 @@ D:\Projects\Task1\Task1\bin\Task1.pdb
 D:\Projects\Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
 D:\Projects\Task1\Task1\obj\Debug\Task1.dll
 D:\Projects\Task1\Task1\obj\Debug\Task1.pdb
+D:\Repos\Task1\Task1\bin\Task1.dll.config
+D:\Repos\Task1\Task1\bin\Task1.dll
+D:\Repos\Task1\Task1\bin\Task1.pdb
+D:\Repos\Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+D:\Repos\Task1\Task1\obj\Debug\Task1.dll
+D:\Repos\Task1\Task1\obj\Debug\Task1.pdb

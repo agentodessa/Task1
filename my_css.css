@@ -7,21 +7,19 @@
     width: 100%;
     height: 70%;
 }
-/**/
+/*Banner section*/
 .nav_list a:hover {
     background-color:red;
         color: #f5fffa
 }
 .nav_list a {
     padding: 0;
-    width: auto;
+    width: 100%;
     height: 4em;
     color: #c0c0c0;
     text-decoration: none;
     display: block;
 }
-/**/
-
 .nav_panel {
     position: absolute;
     margin: 0;
@@ -48,7 +46,7 @@
     display:inline-block;
 }
 
-.login_btn {
+.login_img {
     position: relative;
     left: 65%;
 }
@@ -62,14 +60,78 @@
 
 }
 
+/*Link section*/
+.sample_text  {
+    height: 238px;
+    text-align: center;
+}
+.sample_text h1{
+    font-size: 35px;
+}
+
+.sample_text p{
+    font-size: 17px;
+}
+.link_list {
+    text-align: center;
+}
+.link_section {
+    width: 100%;
+}
 .link_section li {
-    width: 300px;
-    height: 300px;
-    background-color: #fa0000;
+    width: 220px;
+    height: 179px;
     display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url(i/link_sprites.png);
+    text-align: center;
     position: relative;
     margin: 0;
 }
-.link_section a {
+
+/*.link_section ul {
+    left: 30%;
+}*/
+
+.link_list li:hover {
+    color: red;
+}
+.link_list a {
+    width: auto;
+    height: 100%;
     text-decoration: none;
+    display: block;
+}
+
+.link_list .tickets_link {
+    background-position: 8px 0;
+}
+.link_list .camera_link {
+    background-position: -236px 0;
+}
+.link_list .beer_link {
+    background-position: -485px 0;
+}
+.link_list .devices_link {
+    background-position: -745px 0;
+}
+
+
+/*Bullshit!!!*/
+.news1 {
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+.footer {
+    width: auto;
+    height: 258px;
+    background-color: #202022
 }
