@@ -1,0 +1,153 @@
+﻿body{
+    margin:0;
+}
+
+
+.banner {
+    width: 100%;
+    height: 70%;
+}
+/*Banner section*/
+.nav_list a:hover {
+    background-color:red;
+        color: #f5fffa
+}
+.nav_list a {
+    padding: 0;
+    width: 100%;
+    height: 4em;
+    color: #c0c0c0;
+    text-decoration: none;
+    display: block;
+}
+.nav_panel {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 4em;
+    background: #fa0000;
+    background: rgba(255,255,255,0.9);
+}
+
+.nav_panel ul {
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    margin: 0;
+}
+
+.nav_list li {
+    position:relative;
+    left:70%;
+    text-align: center;
+    line-height: 3.5em;
+    margin-right: 10px;
+    display:inline-block;
+}
+
+.login_img {
+    position: relative;
+    left: 65%;
+}
+.logo {
+    width: 100%;
+    height: 100%;
+}
+.logo_img {
+    width: 100%;
+    height: 80%;
+
+}
+
+/*Link section*/
+.sample_text  {
+    height: 238px;
+    text-align: center;
+}
+.sample_text h1{
+    font-size: 35px;
+}
+
+.sample_text p{
+    font-size: 17px;
+}
+.link_list {
+    text-align: center;
+}
+.link_section {
+    width: 100%;
+}
+.link_section li {
+    width: 220px;
+    height: 179px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url(i/link_sprites.png);
+    text-align: center;
+    position: relative;
+    margin: 0;
+}
+
+/*.link_section ul {
+    left: 30%;
+}*/
+
+.link_list li:hover {
+    color: red;
+}
+.link_list a {
+    width: auto;
+    height: 100%;
+    text-decoration: none;
+    display: block;
+}
+
+.link_list .tickets_link {
+    background-position: -13px 0;
+}
+.link_list .camera_link {
+    background-position: -270px 0;
+}
+.link_list .beer_link {
+    background-position: -515px 0;
+}
+.link_list .devices_link {
+    background-position: -775px 0;
+}
+
+
+/*Bullshit!!!*/
+.news {
+    top: 15%;
+    margin: 5%;
+
+}
+
+
+
+
+
+
+
+
+.footer {
+    width: auto;
+    height: 258px;
+    background-color: #000000;
+    color: #d1d5d3;
+
+}
+
+.footer a{
+    text-decoration: none;
+     color: #d1d5d3;
+}
+.footer_table {
+    margin: 0;
+    width: 75%;
+
+}
+.footer li {
+    list-style-type: none;
+}
