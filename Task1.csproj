@@ -17,6 +17,7 @@
     <IISExpressUseClassicPipelineMode />
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="i\bg_login-button.png" />
     <Content Include="i\link_sprites.png" />
     <Content Include="i\loginbg.png" />
     <Content Include="i\logo2.png" />
