@@ -19,11 +19,12 @@
   <ItemGroup>
     <Content Include="i\link_sprites.png" />
     <Content Include="i\loginbg.png" />
+    <Content Include="i\logo2.png" />
     <Content Include="i\newslogo.png" />
+    <Content Include="i\logo.png" />
     <Content Include="my_css.css" />
     <Content Include="normalize.css" />
     <Content Include="index.html" />
-    <Content Include="i\logo.png" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>

@@ -10,25 +10,28 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/Task1.dll">
-      <publishTime>07/21/2014 16:44:58</publishTime>
+      <publishTime>07/22/2014 13:56:15</publishTime>
     </File>
     <File Include="i/link_sprites.png">
-      <publishTime>07/21/2014 16:33:49</publishTime>
+      <publishTime>07/22/2014 12:02:29</publishTime>
     </File>
     <File Include="i/loginbg.png">
       <publishTime>07/21/2014 11:32:26</publishTime>
     </File>
     <File Include="i/logo.png">
-      <publishTime>07/18/2014 10:51:22</publishTime>
+      <publishTime>07/22/2014 10:47:33</publishTime>
+    </File>
+    <File Include="i/logo2.png">
+      <publishTime>07/22/2014 11:45:48</publishTime>
     </File>
     <File Include="i/newslogo.png">
       <publishTime>07/21/2014 11:46:23</publishTime>
     </File>
     <File Include="index.html">
-      <publishTime>07/21/2014 16:35:24</publishTime>
+      <publishTime>07/22/2014 11:47:46</publishTime>
     </File>
     <File Include="my_css.css">
-      <publishTime>07/21/2014 16:41:36</publishTime>
+      <publishTime>07/22/2014 14:28:14</publishTime>
     </File>
     <File Include="normalize.css">
       <publishTime>07/17/2014 15:50:04</publishTime>

@@ -1,31 +1,33 @@
 ﻿body{
     margin:0;
+    background-color: #ffffff;
 }
 
 
 .banner {
     width: 100%;
-    height: 70%;
+    height: 834px;
 }
 /*Banner section*/
-.nav_list a:hover {
-    background-color:red;
-        color: #f5fffa
-}
+
 .nav_list a {
     padding: 0;
     width: 100%;
-    height: 4em;
+    height: 89px;
     color: #c0c0c0;
     text-decoration: none;
     display: block;
+}
+.nav_list a:hover {
+    background-color:red;
+        color: #f5fffa
 }
 .nav_panel {
     position: absolute;
     margin: 0;
     padding: 0;
     width: 100%;
-    height: 4em;
+    height: 89px;
     background: #fa0000;
     background: rgba(255,255,255,0.9);
 }
@@ -43,7 +45,7 @@
     left:70%;
     text-align: center;
     line-height: 3.5em;
-    margin-right: 10px;
+    margin-right: 20px;
     display:inline-block;
 }
 .login_btn {
@@ -66,13 +68,14 @@
 }
 .logo_img {
     width: 100%;
-    height: 80%;
+    height: 100%;
 
 }
 
 /*Link section*/
 .sample_text  {
     height: 238px;
+    background-color: #ffffff;
     text-align: center;
 }
 .sample_text h1{
@@ -83,25 +86,25 @@
     font-size: 17px;
 }
 .link_list {
-    text-align: center;
+    margin-left: 10%;
+    padding: 0;
 }
 .link_section {
     width: 100%;
 }
 .link_section li {
-    width: 220px;
+    width: 179px;
     height: 179px;
     display: inline-block;
     background-repeat: no-repeat;
     background-image: url(i/link_sprites.png);
     text-align: center;
     position: relative;
-    margin: 0;
 }
 
-/*.link_section ul {
-    left: 30%;
-}*/
+.link_section li+li {
+    margin-left: 10%;
+}
 
 .link_list li:hover {
     color: red;
@@ -109,34 +112,46 @@
 .link_list a {
     width: auto;
     height: 100%;
+    -ms-border-radius: 50%;
+    border-radius: 50%;
     text-decoration: none;
     display: block;
 }
 
+
+.link_list a:hover {
+    background-color: #ff0000;
+    background-color: rgba(51, 222, 244, 0.8);
+    
+}
+
 .link_list .tickets_link {
-    background-position: -13px 0;
+    background-position: 0 0;
 }
 .link_list .camera_link {
-    background-position: -270px 0;
+    background-position: -256px 0;
 }
 .link_list .beer_link {
-    background-position: -515px 0;
+    background-position: -503px 0;
 }
 .link_list .devices_link {
-    background-position: -775px 0;
+    background-position: -760px 0;
 }
 
 
 /*Bullshit!!!*/
+.news1 {
+    padding-left: 30%;
+}
 .news {
-
-    top: 15%;
-    margin: 5%;
+    margin-top: 5%;
+    margin-left: 10%;
 
 }
 .news td {
-    padding: 10px ;
-}
+    margin-left: 10%;
+        padding: 10px;
+    }
 
 
 
@@ -145,6 +160,7 @@
 
 
 .footer {
+    margin-top: 5%;
     width: auto;
     height: 258px;
     background-color: #000000;
@@ -158,6 +174,7 @@
 }
 .footer_table {
     margin: 0;
+    margin-left: 10%;
     width: 75%;
 
 }
