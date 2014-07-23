@@ -34,10 +34,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/21/2014 11:46:23</publishTime>
     </File>
     <File Include="index.html">
-      <publishTime>07/22/2014 18:27:36</publishTime>
+      <publishTime>07/23/2014 10:37:31</publishTime>
     </File>
     <File Include="my_css.css">
-      <publishTime>07/22/2014 18:55:28</publishTime>
+      <publishTime>07/23/2014 11:25:11</publishTime>
     </File>
     <File Include="normalize.css">
       <publishTime>07/17/2014 15:50:04</publishTime>
