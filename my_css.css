@@ -15,7 +15,7 @@
 .nav_logo {
     
     position: absolute;
-    left: 10%;
+    left: 15%;
     top: 15px;
 }
 .nav_list a {
@@ -143,10 +143,11 @@
     font-size: 17px;
 }
 .link_list {
-    margin-left: 10%;
+    margin: 0;
     padding: 0;
 }
 .link_section {
+    text-align: center;
     width: 100%;
 }
 .link_section li {
@@ -198,23 +199,30 @@
 
 /*News*/
 .news {
-    margin: 5% 0 0 10%;
+
+    margin: 5% 0 0 15%;
+    text-align: center;
 }
 .news_row{
-
-    background-color: #de6d6e;
-    width: 960px;
-
+    position: relative;
+    text-align: center;
 }
 .news_img {
-     background-color: #1f0b0b;
-    width: 200px;
+    position: absolute;
+    display: block;
+    max-width: 12%;
     height: 132px;
+
 
 }
 
-.news_title {
-
+.news_title{
+    overflow-x: hidden;
+    margin-left: 225px;
+    display: block;
+    max-width: 70%;
+    height: 150px;
+    word-wrap: break-word;
     text-align: left;
 }
 
@@ -228,11 +236,10 @@
 
 
 
-
-
-
 .footer {
+    position: relative;
     margin-top: 5%;
+    padding-left: 15%;
     width: auto;
     height: 258px;
     background-color: #000000;
@@ -244,16 +251,31 @@
     text-decoration: none;
      color: #d1d5d3;
 }
-.footer_table {
-    margin: 0;
-    margin-left: 10%;
-    width: 75%;
-
-}
 
 .footer ul{
     padding: 0;
 }
 .footer li {
     list-style-type: none;
+}
+
+.first_column {
+    width: 10%;
+        float: left;
+}
+.second_column {
+        width: 10%;
+    float: left;
+}
+.third_column {
+        width: 10%;
+        float: left;
+}
+.fourth_column {
+    width: 10%;
+        float: left;
+}
+.fifth_column {
+        width: 10%;
+        float: left;
 }
