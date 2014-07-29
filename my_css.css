@@ -139,7 +139,6 @@
 .sample_text  {
     height: 238px;
     margin: 0 auto;
-    width: 960px;
     background-color: #ffffff;
     text-align: center;
 }
@@ -268,7 +267,7 @@
     ------------------------------------*/
 
 .footer {
-
+    width: auto;
     margin: -250px auto 0;
     position: relative;
     height: 250px;
