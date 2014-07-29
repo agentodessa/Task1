@@ -20,23 +20,30 @@
     <Content Include="i\bg_footer.png" />
     <Content Include="i\bl_footer.png" />
     <Content Include="i\fb_footer.png" />
+    <Content Include="i\flower.ico" />
     <Content Include="i\Graff_pink.png" />
     <Content Include="i\bg_login-button.png" />
     <Content Include="i\link_sprites.png" />
     <Content Include="i\loginbg.png" />
     <Content Include="i\logo2.png" />
-    <Content Include="i\Lorem_text.png" />
+    <Content Include="i\lorem_beer.png" />
+    <Content Include="i\lorem_camera.png" />
+    <Content Include="i\lorem_devices.png" />
+    <Content Include="i\lorem_text.png" />
+    <Content Include="i\lorem_tickets.png" />
     <Content Include="i\sh_footer.png" />
     <Content Include="i\tw_footer.png" />
     <Content Include="logo2.png" />
     <Content Include="i\newslogo.png" />
-    <Content Include="i\logo.png" />
     <Content Include="my_css.css" />
     <Content Include="normalize.css" />
     <Content Include="index.html" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="fonts\MyriadPro-Regular.otf" />
+    <Content Include="fonts\MyriadPro-Regular.ttf" />
+    <Content Include="fonts\MyriadPro-Regular.woff" />
     <None Include="LOL.pubxml" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
@@ -45,6 +52,7 @@
       <DependentUpon>web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
