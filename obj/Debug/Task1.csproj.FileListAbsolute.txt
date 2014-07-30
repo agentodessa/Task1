@@ -10,9 +10,3 @@ D:\Repos\Task1\Task1\bin\Task1.pdb
 D:\Repos\Task1\Task1\obj\Debug\Task1.dll
 D:\Repos\Task1\Task1\obj\Debug\Task1.pdb
 D:\Repos\Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
-D:\Code\Repos\Task1\bin\Task1.dll.config
-D:\Code\Repos\Task1\bin\Task1.dll
-D:\Code\Repos\Task1\bin\Task1.pdb
-D:\Code\Repos\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
-D:\Code\Repos\Task1\obj\Debug\Task1.dll
-D:\Code\Repos\Task1\obj\Debug\Task1.pdb
