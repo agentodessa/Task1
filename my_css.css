@@ -148,7 +148,6 @@ body{
 .sample_text  {
     height: 238px;
     margin: 0 auto;
-    width: 960px;
     background-color: #ffffff;
     text-align: center;
     vertical-align: middle;
@@ -442,10 +441,17 @@ vertical-align: middle;
     ------------------------------------*/
 
 .footer {
+<<<<<<< HEAD
+    width: auto;
+    margin: -250px auto 0;
+    position: relative;
+    height: 250px;
+=======
 
     margin: -258px auto 0;
     height: 258px;
     min-width: 960px;
+>>>>>>> origin/master
     background-color: #2c2525;
     background-image: url(i/bg_footer.png);
     color: #7a7a78;
