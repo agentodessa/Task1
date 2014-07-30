@@ -10,16 +10,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/Task1.dll">
-      <publishTime>07/29/2014 17:44:44</publishTime>
+      <publishTime>07/30/2014 10:31:51</publishTime>
     </File>
     <File Include="fonts/MYRIADPRO-REGULAR.OTF">
-      <publishTime>07/29/2014 11:20:39</publishTime>
+      <publishTime>07/29/2014 19:15:10</publishTime>
     </File>
     <File Include="fonts/MyriadPro-Regular.ttf">
-      <publishTime>07/29/2014 11:20:39</publishTime>
+      <publishTime>07/29/2014 19:15:10</publishTime>
     </File>
     <File Include="fonts/MyriadPro-Regular.woff">
-      <publishTime>07/29/2014 11:20:39</publishTime>
+      <publishTime>07/29/2014 19:15:10</publishTime>
     </File>
     <File Include="fonts/MYRIADPROREGULAR.eot">
       <publishTime>07/28/2014 11:13:42</publishTime>
@@ -43,7 +43,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/24/2014 14:51:21</publishTime>
     </File>
     <File Include="i/flower.ico">
-      <publishTime>07/29/2014 12:51:26</publishTime>
+      <publishTime>07/29/2014 19:15:10</publishTime>
     </File>
     <File Include="i/Graff_pink.png">
       <publishTime>07/22/2014 17:53:48</publishTime>
@@ -61,19 +61,31 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/22/2014 11:45:48</publishTime>
     </File>
     <File Include="i/lorem_beer.png">
-      <publishTime>07/28/2014 17:56:05</publishTime>
+      <publishTime>07/29/2014 19:15:10</publishTime>
+    </File>
+    <File Include="i/lorem_beer_hover.png">
+      <publishTime>07/30/2014 09:48:29</publishTime>
     </File>
     <File Include="i/lorem_camera.png">
-      <publishTime>07/28/2014 17:56:05</publishTime>
+      <publishTime>07/29/2014 19:15:10</publishTime>
+    </File>
+    <File Include="i/lorem_camera_hover.png">
+      <publishTime>07/30/2014 09:48:29</publishTime>
     </File>
     <File Include="i/lorem_devices.png">
-      <publishTime>07/28/2014 17:56:05</publishTime>
+      <publishTime>07/29/2014 19:15:10</publishTime>
+    </File>
+    <File Include="i/lorem_devices_hover.png">
+      <publishTime>07/30/2014 09:48:29</publishTime>
     </File>
     <File Include="i/Lorem_text.png">
       <publishTime>07/25/2014 17:44:52</publishTime>
     </File>
     <File Include="i/lorem_tickets.png">
-      <publishTime>07/28/2014 17:56:05</publishTime>
+      <publishTime>07/29/2014 19:15:10</publishTime>
+    </File>
+    <File Include="i/lorem_tickets_hover.png">
+      <publishTime>07/30/2014 09:48:29</publishTime>
     </File>
     <File Include="i/newslogo.png">
       <publishTime>07/21/2014 11:46:23</publishTime>
@@ -85,13 +97,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/24/2014 17:10:47</publishTime>
     </File>
     <File Include="index.html">
-      <publishTime>07/29/2014 17:26:19</publishTime>
+      <publishTime>07/30/2014 10:51:49</publishTime>
     </File>
     <File Include="logo2.png">
       <publishTime>07/22/2014 11:45:22</publishTime>
     </File>
     <File Include="my_css.css">
-      <publishTime>07/29/2014 17:27:43</publishTime>
+      <publishTime>07/30/2014 12:24:25</publishTime>
     </File>
     <File Include="normalize.css">
       <publishTime>07/25/2014 14:39:19</publishTime>

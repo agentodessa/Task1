@@ -27,10 +27,14 @@
     <Content Include="i\loginbg.png" />
     <Content Include="i\logo2.png" />
     <Content Include="i\lorem_beer.png" />
+    <Content Include="i\lorem_beer_hover.png" />
     <Content Include="i\lorem_camera.png" />
+    <Content Include="i\lorem_camera_hover.png" />
     <Content Include="i\lorem_devices.png" />
+    <Content Include="i\lorem_devices_hover.png" />
     <Content Include="i\lorem_text.png" />
     <Content Include="i\lorem_tickets.png" />
+    <Content Include="i\lorem_tickets_hover.png" />
     <Content Include="i\sh_footer.png" />
     <Content Include="i\tw_footer.png" />
     <Content Include="logo2.png" />
